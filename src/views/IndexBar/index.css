@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.every-title{
+    margin-left: 15%;
+    text-decoration:none;
+    color: #ccc;
+}
